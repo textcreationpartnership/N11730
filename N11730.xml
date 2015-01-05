@@ -115,8 +115,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:014823_0000_0F9738E98C5D6F90"/>
-            <pb facs="tcp:014823_0001_0F9738E37AA100B0"/>
+            <pb facs="unknown:014823_0000_0F9738E98C5D6F90"/>
+            <pb facs="unknown:014823_0001_0F9738E37AA100B0"/>
             <p>THE FALL OF BRITISH TYRANNY: OR, AMERICAN LIBERTY TRIUMPHANT. THE FIRST CAMPAIGN.</p>
             <p>A <hi>TRAGI-COMEDY</hi> OF FIVE ACTS, AS LATELY PLANNED AT THE ROYAL THEATRUM PANDEMONIUM, AT ST. JAME'S.</p>
             <p>THE PRINCIPAL PLACE OF ACTION IN AMERICA.</p>
@@ -136,7 +136,7 @@
                <hi>PHILADELPHIA:</hi> PRINTED BY STYNER AND CIST, IN SECOND-STREET, NEAR ARCH-STREET. M DCC LXXVI.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:014823_0002_0F9738EA9FB6D5E0"/>
+            <pb facs="unknown:014823_0002_0F9738EA9FB6D5E0"/>
             <head>THE DEDICATION.</head>
             <head>To Lord BOSTON, Lord KIDNAPPER, and the in<g ref="char:EOLhyphen"/>numerable and never-ending Clan of Macs and Donalds upon Donalds, and the Remnant of the Gentlemen Officers, Actors, Merry Andrews, strolling Players, Pirates and Buccaneers in America.</head>
             <opener>
@@ -147,7 +147,7 @@
             </p>
             <p>
                <hi>I shall however not copy your churlishness, but dedicate the following Tragi-Comedy to your patronage, and for your future entertainment; and as the most of you have already acted your particular parts of it, both comic and tragic, in reality at Lexington, Bunker's-hill, the Great-Bridge, &amp;c. &amp;c. &amp;c. to the very great applause of yourselves, tho' not of the whole house, no doubt you will preserve the marks, or memory of it, as long as you live, as it is wrote in capital American characters and letters of blood on your posteriors: And however some Whigs may censure you for your affected mirth (as they
-<pb n="IV" facs="tcp:014823_0003_0F9738EAE9E5B158"/>
+<pb n="IV" facs="unknown:014823_0003_0F9738EAE9E5B158"/>
 term it, in the deplorable situation you are now in, like bogs in a pen, and in want of elbow room) yet I can by no means agree with them, but think it a proof of true heroism and philosophy, to endeavour to make the best of a bad bargain, and laugh at yourselves, to prevent others from laughing at you; and tho' you are deprived of the use of your teeth, it is no reason you should be bereaved of the use of your tongues, your eyes, your ears, and your risible faculties and powers. That would be cruel indeed! after the glorious and fatiguing campaign you have made, and the many signal victories obtained over whole herbs of cattle and swine, routing flocks of sheep, lambs and geese, storming hen-roosts, and taking them prisoners, and thereby raising the glory of Old England to a pitch she never knew before. And ye Macs, and ye Donalds upon Donalds, go on, and may our gallows-bills and liberty poles be honour'd and adorn'd with some of your heads: Why should Tyburn and Temple-bar make a monopoly of so valuable a commodity?</hi>
             </p>
             <p>
@@ -160,7 +160,7 @@ term it, in the deplorable situation you are now in, like bogs in a pen, and in 
             </closer>
          </div>
          <div type="preface">
-            <pb n="V" facs="tcp:014823_0004_0F9738EBA901E108"/>
+            <pb n="V" facs="unknown:014823_0004_0F9738EBA901E108"/>
             <head>THE PREFACE.</head>
             <p>SOLOMON said, "Oppression makes a wise man mad:" but what would he have said, had he lived in these days, and seen the oppression of the people of Boston, and the distressed situation of the inhabitants of Charlestown, Falmouth, Stonning<g ref="char:EOLhyphen"/>ton, Bristol, Norfolk, &amp;c. Would he not have said, <q>The tongue of the sucking child cleaveth to the roof of his mouth for thirst; the young children ask for bread, but no man breaketh it un<g ref="char:EOLhyphen"/>to them?</q> 
                <q>They that did feed delicately, perish in the streets; they that were brought up in scar<g ref="char:EOLhyphen"/>let, embrace the dung.</q> What would he have said of rejected petitions, disregarded supplications, and contemned remonstrances? Would he not have said, "From hardness of heart, good Lord, deliver us?" What would he have said of a freeborn people butchered—their towns desolated, and become an heap of ashes—their inhabitants become beggars, wanderers and vagabonds—by the cruel orders of an unrelenting tyrant, wallowing in luxury, and wantonly wasting the people's wealth, to oppress them the more? Would he not have said, it was oppression and ingratitude in the highest degree, ex<g ref="char:EOLhyphen"/>ceeding the oppression of the children of Israel? and, like Moses, have cried out, let the people go? Would he not have wondered at our patience and long-suffering, and have said, 'Tis time to change our master!—'Tis time to part!—And had he been an American born, would he not have shewed his wisdom by adopting the language of independency? Happy then for America in these fluctuating times, she is not without her Solomons, who see the n<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -169,7 +169,7 @@ term it, in the deplorable situation you are now in, like bogs in a pen, and in 
                <g ref="char:EOLhyphen"/>cessity of heark'ning to reason, and listening to the voice of COMMON SENSE.</p>
          </div>
          <div type="poem">
-            <pb n="VI" facs="tcp:014823_0005_0F9738ECB2C12230"/>
+            <pb n="VI" facs="unknown:014823_0005_0F9738ECB2C12230"/>
             <head>THE GODDESS OF LIBERTY.</head>
             <l>HAIL! <note n="*" place="bottom">
                   <hi>The Congress<g ref="char:punc">▪</g>
@@ -204,7 +204,7 @@ term it, in the deplorable situation you are now in, like bogs in a pen, and in 
       </front>
       <body>
          <div type="prologue">
-            <pb n="VII" facs="tcp:014823_0006_0F973A188E41DB48"/>
+            <pb n="VII" facs="unknown:014823_0006_0F973A188E41DB48"/>
             <head>THE PROLOGUE,</head>
             <byline>spoken by Mr. PETER BUCKSTAIL.</byline>
             <l>
@@ -289,7 +289,7 @@ term it, in the deplorable situation you are now in, like bogs in a pen, and in 
             </l>
          </div>
          <div type="dramatis_personae">
-            <pb n="VIII" facs="tcp:014823_0007_0F973A192B5FB6C8"/>
+            <pb n="VIII" facs="unknown:014823_0007_0F973A192B5FB6C8"/>
             <head>Dramatis Personae</head>
             <list>
                <label>Lord <hi>Paramount,</hi>
@@ -363,7 +363,7 @@ term it, in the deplorable situation you are now in, like bogs in a pen, and in 
             </list>
          </div>
          <div n="1" type="ACT">
-            <pb facs="tcp:014823_0008_0F973A1A7124B810"/>
+            <pb facs="unknown:014823_0008_0F973A1A7124B810"/>
             <head>THE FALL OF BRITISH TYRANNY, &amp;c.</head>
             <head>ACT I.</head>
             <div n="1" type="SCENE">
@@ -380,7 +380,7 @@ term it, in the deplorable situation you are now in, like bogs in a pen, and in 
                <p>Let their champion, Lord Wisdom, groan, he is now become feeble and impotent, a mere cripple in politics; their Lord Patriot's squint has lost its basilisk effect: and the bold Irishman may bellow the <hi>Keenew</hi> till he's hoarse, he's no more when compar'd to me than an Irish salmon to a Scotch herring: I care not a bawbee for them all. I'll reign in Britain, I'll be king of their counsels, and chief among the princes.</p>
                <p>Oh! ambition, thou darling of my soul! stop not 'till I rise superior to all superlative, 'till I mount triumphantly the pinnacle of glory, or at least open the way for one of my own family and name to enter without opposition.</p>
                <p>
-                  <pb n="2" facs="tcp:014823_0009_0F973A1B42AFD208"/>The work is now cut out, and must be finish'd, I have <gap reason="illegible" resp="#AELD" extent="1 word">
+                  <pb n="2" facs="unknown:014823_0009_0F973A1B42AFD208"/>The work is now cut out, and must be finish'd, I have <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> too far to recede, my honour's at stake, my im<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
@@ -505,7 +505,7 @@ term it, in the deplorable situation you are now in, like bogs in a pen, and in 
                         <gap reason="illegible" resp="#AELD" extent="2 words">
                            <desc>〈◊◊〉</desc>
                         </gap>.</hi> When we find any thing of this kind<g ref="char:punc">▪</g>
-                     <pb n="3" facs="tcp:014823_0010_0F973A1B71835AA0"/>
+                     <pb n="3" facs="unknown:014823_0010_0F973A1B71835AA0"/>
 ready made to our hands, it's a treasure we should never part with.
 <stage>[Paramount reads.</stage>
                   </p>
@@ -541,7 +541,7 @@ ready made to our hands, it's a treasure we should never part with.
                         </gap>nt.</hi>
                   </speaker>
                   <p>True, and yet they are cursedly mistaken—and now, Mocklaw, as I have ever found you to be well dispos'd towards me, and the cause I espouse, and as I trust you continue satisfy'd with my former bounty, and my promise now of granting you a pension for life, with liberty to retire, I shall make you my confident, and disclose to you a secret no man except myself yet knows, which I expect you have so much honour to let it remain
-<pb n="4" facs="tcp:014823_0011_0F973A1C3633BF68"/>
+<pb n="4" facs="unknown:014823_0011_0F973A1C3633BF68"/>
 a secret to all the world (I mean as to the main point I have in view).</p>
                </sp>
                <sp>
@@ -575,7 +575,7 @@ a secret to all the world (I mean as to the main point I have in view).</p>
                   <p>Granted—But are you so little of a law<g ref="char:EOLhyphen"/>yer as not to know the virtue of a certain specific I'm possess'd of, that will accomplish any thing, even to performing miracles? Don't you know there's such sweet music in the shaking of the treasury keys, that they will instantly lock the most babbling patriot's tongue! trans<g ref="char:EOLhyphen"/>form a Tory into a Whig, and a Whig into a Tory? make a superannuated old miser dance, and an old Cy<gap reason="illegible" resp="#AELD" extent="3 letters">
                         <desc>•••</desc>
                      </gap> philo<g ref="char:EOLhyphen"/>sopher smile? How many thousand times has your tongue
-<pb n="5" facs="tcp:014823_0012_0F973A1D140BA338"/>
+<pb n="5" facs="unknown:014823_0012_0F973A1D140BA338"/>
 danc'd at Westminster Hall to the sound of such music?</p>
                </sp>
                <sp>
@@ -599,7 +599,7 @@ danc'd at Westminster Hall to the sound of such music?</p>
                   <p>As to the militia, they are half of them my friends, witness Lancaster, Manchester, Liver<g ref="char:EOLhyphen"/>pool, &amp;c, &amp;c. &amp;c. the other half scarce ever fired a gun in their lives, especially those of London, and I shall take care by shaking the keys a little to have such officers ap<g ref="char:EOLhyphen"/>pointed over them, who are well known to be in my in<g ref="char:EOLhyphen"/>terest. As to the German forces, I have nothing to ap<g ref="char:EOLhyphen"/>prehend from them; the parliament can soon pass an act against the introduction of foreign troops, exept the French or Spaniards, who can't be called foreign, they are our friends and nearest neighbours. Have you any thing further to object against the probability of this plan?</p>
                </sp>
                <sp>
-                  <pb n="6" facs="tcp:014823_0013_0F973A1F08D23D60"/>
+                  <pb n="6" facs="unknown:014823_0013_0F973A1F08D23D60"/>
                   <speaker>Mocklaw.</speaker>
                   <p>Nothing my Lord, but the people of Ire<g ref="char:EOLhyphen"/>land, who must be cajoled or humbugg'd.</p>
                </sp>
@@ -647,7 +647,7 @@ danc'd at Westminster Hall to the sound of such music?</p>
                </sp>
             </div>
             <div n="3" type="SCENE">
-               <pb n="7" facs="tcp:014823_0014_0F973A2077EEC960"/>
+               <pb n="7" facs="unknown:014823_0014_0F973A2077EEC960"/>
                <head>SCENE III.</head>
                <stage>
                   <hi>Lord</hi>Paramount <hi>solus.</hi>
@@ -679,7 +679,7 @@ danc'd at Westminster Hall to the sound of such music?</p>
                   <p>How do we show our authority? how do we maintain the royal prerogative? keep in awe the knowing ones of the opposite party, and blind the eyes of the ignorant mul<g ref="char:EOLhyphen"/>titude in Britain? Why, by spirited measures, by an ac<g ref="char:EOLhyphen"/>cumulation of power, of deception, and the shaking of the keys, we may hope to succeed; should that fail, I'll en<g ref="char:EOLhyphen"/>force them with the pointed bayonet; the Americans from one end to the other shall submit, in spite of all opposi<g ref="char:EOLhyphen"/>tion; I'll listen to no overtures of reconciliation from any petty self-constituted congress, they shall submit implicitly to such terms as I of my royal indulgence please to grant. I'll show them the impudence and weakness of their re<g ref="char:EOLhyphen"/>solves, and the strength of mine; I will never soften; my inflexibility shall stand firm, and convince them the second Pharaoh is at least equal to the first. I am unalterably de<g ref="char:EOLhyphen"/>termined at every hazard and at the risk of every con<g ref="char:EOLhyphen"/>s<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>quence
-<pb n="8" facs="tcp:014823_0015_0F973A21596586A0"/>
+<pb n="8" facs="unknown:014823_0015_0F973A21596586A0"/>
 sequence to compel the colonies to <hi>absolute</hi> submission. I'll draw in treasure from every quarter, and, Solomon-like, wallow in riches; and Scotland, my dear Scotland<g ref="char:punc">▪</g> shall be the paradise of the world. Rejoice in the name of Para<g ref="char:EOLhyphen"/>mount, and the sound of a bawbee shall be no more heard in the land of my nativity.—</p>
                </sp>
             </div>
@@ -732,7 +732,7 @@ sequence to compel the colonies to <hi>absolute</hi> submission. I'll draw in tr
                      </gap>plit their throats; how they huzza too; they make a mere god of the fellow; how they idolize him—Ignorant brutes!</p>
                </sp>
                <sp>
-                  <pb n="9" facs="tcp:014823_0016_0F973A216DB581F0"/>
+                  <pb n="9" facs="unknown:014823_0016_0F973A216DB581F0"/>
                   <speaker>Charley.</speaker>
                   <p>A scoundrel; he has climb'd up the stilts of preferment strangely, my Lord.</p>
                </sp>
@@ -793,7 +793,7 @@ sequence to compel the colonies to <hi>absolute</hi> submission. I'll draw in tr
                   <p>I suppose them to be a couple of Livery Tal<g ref="char:EOLhyphen"/>low-chandlers, my Lord, by their big bellies.</p>
                </sp>
                <sp>
-                  <pb n="10" facs="tcp:014823_0017_0F973A222D063AD8"/>
+                  <pb n="10" facs="unknown:014823_0017_0F973A222D063AD8"/>
                   <speaker>Paramount.</speaker>
                   <p>Ha, ha,—what work the guards would make amongst them—but they must not be called yet.—And who are those other two behind 'em?</p>
                </sp>
@@ -839,7 +839,7 @@ sequence to compel the colonies to <hi>absolute</hi> submission. I'll draw in tr
                <stage>[<hi>Exit</hi> Charley.</stage>
             </div>
             <div n="5" type="SCENE">
-               <pb n="11" facs="tcp:014823_0018_0F973A22EC48EDE8"/>
+               <pb n="11" facs="unknown:014823_0018_0F973A22EC48EDE8"/>
                <head>SCENE V.</head>
                <stage>
                   <hi>Enter</hi> Mocklaw, Poltron, Hypocrite, Cat<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -857,7 +857,7 @@ sequence to compel the colonies to <hi>absolute</hi> submission. I'll draw in tr
                   <speaker>Mr. <hi>Brazen.</hi>
                   </speaker>
                   <p>I am very clear in it, please your Lord<g ref="char:EOLhyphen"/>ship;
-<pb n="12" facs="tcp:014823_0019_0F973A2412D810F0"/>
+<pb n="12" facs="unknown:014823_0019_0F973A2412D810F0"/>
 there are numbers of men in this country who are ever studying how to perplex and entangle the state, con<g ref="char:EOLhyphen"/>stantly thwarting government, in ev'ry laudable under<g ref="char:EOLhyphen"/>taking; this clamorous faction must be curbed, must be sub<g ref="char:EOLhyphen"/>dued and crush'd—our thunder must go forth, America must be conquered. I am for blood and fire to crush the rising glories of America—They boast of her strength; she must be conquered, it half Germany is called to our assistance.</p>
                </sp>
                <sp>
@@ -897,7 +897,7 @@ there are numbers of men in this country who are ever studying how to perplex an
                   <speaker>Lord <hi>Hypocrite.</hi>
                   </speaker>
                   <p>All this, and a great deal more, would
-<pb n="13" facs="tcp:014823_0020_0F973A2693F0E390"/>
+<pb n="13" facs="unknown:014823_0020_0F973A2693F0E390"/>
 never convince me of the general cowardice of the Ame<g ref="char:EOLhyphen"/>ricans—but of the cowardice of Grant I've been long con<g ref="char:EOLhyphen"/>
                      <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
@@ -933,7 +933,7 @@ never convince me of the general cowardice of the Ame<g ref="char:EOLhyphen"/>ri
                <sp>
                   <speaker>Paramount.</speaker>
                   <p>I am glad to find, my Lords and Gentle<g ref="char:EOLhyphen"/>men,
-<pb n="14" facs="tcp:014823_0021_0F973A27871CADC0"/>
+<pb n="14" facs="unknown:014823_0021_0F973A27871CADC0"/>
 you all see the necessity of sending over troops and ships; I intend my Lord Cat<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>paw shall lay it before parliament, and am very certain they'll pass any acts I can desire. I thank you, Lord Hypocrite, for your kind offer, and accept of it; his Grace my Lord of Suffolk and Dean Tucker are n<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -993,7 +993,7 @@ you all see the necessity of sending over troops and ships; I intend my Lord Cat
                   </speaker>
                   <p>I Much lament, my Lords, the present un<g ref="char:EOLhyphen"/>happy situation of my country; where'er I turn my eyes, to Europe, Asia, Africa, or America, the prospect appears the same.—Look up to the throne, and behold your king, if I may now call him by that soft title—Where is the wisdom, the justice, the religion, that once adorn'd that throne, and shed the benign influence of their bright rays through the four quarters of the globe? Alas! they're flown!</p>
                   <p>Mark his forlorn looks—his countenance dejected,
-<pb n="15" facs="tcp:014823_0022_0F973A282D871B08"/>
+<pb n="15" facs="unknown:014823_0022_0F973A282D871B08"/>
 a sullen greatness fixed on his brow, as if it veil'd in blood some awful purpose, his eyes flaming and sanguinary; how I bewail him for his predecessor's sake!—Long—long have I been an old, and I trust a faithful servant in the family—Can I then restrain one tear? No, 'tis impossible!-View that arch-dragon, that old fiend, Paramount, that rebel in grain, whispering in his ear. View his wretched ministers hovering round him, to accomplish their accursed purpose, and accelerate his destruction—View the whole herd of administration (I know 'em well) and tell me if the world can furnish a viler set of miscreants? View both houses of parliament, and count the number of Tyrants, Jacobites, Tories, Placemen, Pensioners, Sycophants and Panders. View the constitution, is she not disrob'd and dismantled? is she not become like a virgin deflower'd? View our fleets and armies commanded by bloody murdering butchers! View Britain herself as a sheep without a shepherd! And lastly view America, for her virtue bleeding and for her li<g ref="char:EOLhyphen"/>berty weltering in her blood!</p>
                </sp>
                <sp>
@@ -1013,7 +1013,7 @@ a sullen greatness fixed on his brow, as if it veil'd in blood some awful purpos
                      </gap>e, worn out in the service of my country, and even my very crutches, have been made the subject of their ridicule.</p>
                </sp>
                <sp>
-                  <pb n="16" facs="tcp:014823_0023_0F973A291DB83720"/>
+                  <pb n="16" facs="unknown:014823_0023_0F973A291DB83720"/>
                   <speaker>Lord <hi>Justice.</hi>
                   </speaker>
                   <p>Gratitude, like religion and patriotism, are about taking their flight, and the law of the land stands on tiptoe; the constitution, that admirable fabric, that work of ages, the envy of the world, is deflower'd indeed, and made to commit a rape upon her own body, by the avaricious frowns of her own father, who is bound to protect her, not to destroy—Her pillars are thrown down, her capitals broke, her pedestals demolish'd and her foun<g ref="char:EOLhyphen"/>dation nearly destroy'd.—Lord Paramount and his wretched adviser Mocklaw baffles all our efforts.—The statutes of the land superseded by royal proclamations and dispensing powers, &amp;c. &amp;c. the bloody knife to be held to the throats of the Americans, and force them to submit to slav'ry.—Administration have commenced bloody tyrants, and those that should protect the subject, are become their execu<g ref="char:EOLhyphen"/>tioners; yet will I dispute with them inch by inch, while there's a statute book left in the land. Come forth, thou grand deceiver! I challenge thee to come forth!</p>
@@ -1032,7 +1032,7 @@ a sullen greatness fixed on his brow, as if it veil'd in blood some awful purpos
                   <speaker>Lord <hi>Wisdom.</hi>
                   </speaker>
                   <p>Much to be wished for; but alas! I fear it's now too late; I foresee the tendency and consequence of those diabolical measures that have been pursued with unrelenting fury. Britain will ruin her trade, waste her wealth, her strength, her credit and her importance in the
-<pb n="17" facs="tcp:014823_0024_0F973A2B8E1043F8"/>
+<pb n="17" facs="unknown:014823_0024_0F973A2B8E1043F8"/>
 scale of Europe. When a British king proves ungrateful and haughty, and strives to be independent of his people, (who are his sole support) the people will in their turn likewise strive to be independent of him and his myrmidons, and will be free; they will erect the anfractuous standard of independency, and thousands and tens of thousands will flock to it, and solace themselves under its shade.—They have often been told of this, but affected to despise it; they know not America's strength, they are ignorant of it; fed by the flatt'ry of every sycophant tale, imagine themselves almighty, and able to subdue the whole world. America will be lost to Britain for ever, and will prove her downfall. America is wise, and will shake off the galling yoke before it be rivetted on them; they will be drove to it, and who can blame them? Who can blame a gally slave for making his escape?—Britain will miscarry in her vile projects, her knight errant, her Don Quixotte schemes in America: America will resist; they are not easily to be subdued; (nay 'tis impossible) Britain will find it a harder task than to con<g ref="char:EOLhyphen"/>quer France and Spain united, and will cost 'em more blood and treasure than a twice seven years war with those European powers; they will stand out 'till Britons are tired. Britain will invite her with kind promises and open arms; America will reject them; America will triumph, rejoice and flourish, and become the glory of the earth; Britain will languidly hold down her head, and become first a prey to a vile Pre<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>nder, and then be subject to the ravagers of Europe. I love the Americans, because they love liberty. Liberty flourishes in the wilds of America. I honour the plant, I revere the tree, and would cherish its branches. Let us, my friends, join hands with them, follow their example, and endeavour to support expiring liberty in Britain; whilst I have a tongue to speak, I will support her wherever found; whilst I have crutches to crawl with, I will try to find her out, and with the voice of an arch-angel will demand for a sacrifice to the nation those miscreants who have wickedly and wantonly been the ruin of their country. Oh, Liberty! Oh, my country!</p>
@@ -1041,7 +1041,7 @@ scale of Europe. When a British king proves ungrateful and haughty, and strives 
                   <speaker>Lord <hi>Religion.</hi>
                   </speaker>
                   <p>Oh, Religion! Oh, Virtue! whither art thou fleeing? Oh, thou Defender of the Faith! Oh, ye
-<pb n="18" facs="tcp:014823_0025_0F973A2C6BBA3AA8"/>
+<pb n="18" facs="unknown:014823_0025_0F973A2C6BBA3AA8"/>
 mighty Lords and Commons! Oh, ye deluded Bishops! ye learned props of our unerring church, who preach up vengeance, force and fire, instead of peace! be wise in time, left the Americans be driven to work out their own salva<g ref="char:EOLhyphen"/>tion without fear or trembling.</p>
                </sp>
                <stage>[Exeunt.</stage>
@@ -1076,7 +1076,7 @@ mighty Lords and Commons! Oh, ye deluded Bishops! ye learned props of our unerri
                   <speaker>Bold <hi>Irishman.</hi>
                   </speaker>
                   <p>And the devil knows what beside—Magnanimity and sacred fire, indeed!—Very magnanimous sounds, but pompous nothings! Why did he not tell us where was the magnanimity of the British senate at the time of the dispute about Falkland's Island? What sort of fire animated them then?—Where was the high spirit of the people?—Strange sort of fire, and strange sort of spirit, to give up to our inveterate enemies, the Spaniards, our property unasked for, and cut our best friends and brethren the Americans throats, for defending theirs against lawless tyranny; their sacred fire became then all fumo, and the strength of their boasted spirits eva<g ref="char:EOLhyphen"/>porated into invisible effluvium; the giant then sunk sure enough spontaneously into a dwarf; and now, it seems the dwarf having been feeding upon smoaky fire and evaporated spirits, is endeavouring to swell himself into a giant again,
-<pb n="19" facs="tcp:014823_0026_0F973A2CAF838360"/>
+<pb n="19" facs="unknown:014823_0026_0F973A2CAF838360"/>
 like the frog in the fable, 'till he bursts himself in silent thunder—But let the mighty Philistine, the Goliath Para<g ref="char:EOLhyphen"/>mount, and his oracle Mocklaw, with their thunder bel<g ref="char:EOLhyphen"/>lowed from the brazen mortar-piece of a turn-coat lawyer, have a care of the little American David!</p>
                </sp>
                <sp>
@@ -1131,7 +1131,7 @@ like the frog in the fable, 'till he bursts himself in silent thunder—But let 
                      </gap>un.</p>
                </sp>
                <sp>
-                  <pb n="20" facs="tcp:014823_0027_0F973A2D6F3D8180"/>
+                  <pb n="20" facs="unknown:014823_0027_0F973A2D6F3D8180"/>
                   <speaker>Colonel.</speaker>
                   <p>And thus they'll drive liberty from out the land, yet I hope they'll meet the ambitious Phaeton's fate; but when a brave people, like the Americans, from their infancy us'd to liberty (not as a gift, but who in<g ref="char:EOLhyphen"/>herit it as a birth-right, but not as a mess of pottage, to be bought by, or sold to, ev'ry hungry glutton of a minister) find attempts made to reduce them to slavery, they generally take some desperate successful measure for their deliverance. I should not be at all surpris'd to hear of independency pro<g ref="char:EOLhyphen"/>claim'd throughout their land, of Britain's armies beat, their fleets burnt, sunk, or otherwise destroy'd. The same principle which Mr. Brazen speaks of, that inspires British soldiers to fight, namely the ferment of youthful blood, the high spirit of the people, a love of glory, and a sense of national honour, will inspire the Americans to withstand <gap reason="illegible" resp="#AELD" extent="3 letters">
                         <desc>•••</desc>
@@ -1148,7 +1148,7 @@ like the frog in the fable, 'till he bursts himself in silent thunder—But let 
                   <speaker>Bold <hi>Irishman.</hi>
                   </speaker>
                   <p>There I'll shake hands with you, and my tongue shall echo in their ears, make their arched ceiling shake, the treasury bench crack, and the great chair of their great speaker tremble, and never will I cease lash<g ref="char:EOLhyphen"/>ing them, while lashing is good, or hope remains; and when the voice of poor liberty can no longer be heard in Britain or Hibernia, let's give Caledonia a kick with our
-<pb n="21" facs="tcp:014823_0028_0F973A2E35A1B4B0"/>
+<pb n="21" facs="unknown:014823_0028_0F973A2E35A1B4B0"/>
 heels, and away with the goddess to the American shore, crown her, and defy the grim king of tyranny, at his peril, to set his foot there.—Here let him stay, and wallow in sackcloth and ashes, like a beast as he is, and, Nebucad<g ref="char:EOLhyphen"/>nezzar-like, eat grass and thistles.</p>
                </sp>
                <stage>[Exeunt.</stage>
@@ -1195,7 +1195,7 @@ heels, and away with the goddess to the American shore, crown her, and defy the 
                <sp>
                   <speaker>Selectman.</speaker>
                   <p>They seem to be guided by some secret de<g ref="char:EOLhyphen"/>mon; this stopping our ports and depriving us of all trade is cruel, calculated to starve and beggar thousands of fa<g ref="char:EOLhyphen"/>milies, more spiteful than politic, more to their own dis<g ref="char:EOLhyphen"/>advantage than ours: But we can resolve to do without trade; it will be the means of banishing luxury, which
-<pb n="22" facs="tcp:014823_0029_0F973A314ABBFC60"/>
+<pb n="22" facs="unknown:014823_0029_0F973A314ABBFC60"/>
 has ting'd the simplicity and spotless innocence of our once happy asylum.</p>
                </sp>
                <sp>
@@ -1233,7 +1233,7 @@ has ting'd the simplicity and spotless innocence of our once happy asylum.</p>
                      </gap>.</p>
                </sp>
                <sp>
-                  <pb n="23" facs="tcp:014823_0030_0F973A322B8F1F80"/>
+                  <pb n="23" facs="unknown:014823_0030_0F973A322B8F1F80"/>
                   <speaker>Selectman.</speaker>
                   <p>Would all America were so zealous as you.—The appointment of a general Continental Congress was a judicious measure, and will prove the salvation of this new world, where counsel mature, wisdom and strength united, will prove a barrier, a bulwark, against the en<g ref="char:EOLhyphen"/>croachments of arbitary power.</p>
                </sp>
@@ -1284,7 +1284,7 @@ has ting'd the simplicity and spotless innocence of our once happy asylum.</p>
                   </p>
                </sp>
                <sp>
-                  <pb n="24" facs="tcp:014823_0031_0F973A32AFDA9C40"/>
+                  <pb n="24" facs="unknown:014823_0031_0F973A32AFDA9C40"/>
                   <speaker>Selectman.</speaker>
                   <p>I'm impatient to know it, welcome or un<g ref="char:EOLhyphen"/>welcome.</p>
                </sp>
@@ -1333,7 +1333,7 @@ has ting'd the simplicity and spotless innocence of our once happy asylum.</p>
                <stage>[Exeunt.</stage>
             </div>
             <div n="3" type="SCENE">
-               <pb n="25" facs="tcp:014823_0032_0F973A33B1287518"/>
+               <pb n="25" facs="unknown:014823_0032_0F973A33B1287518"/>
                <head>SCENE III.</head>
                <head>In a street in BOSTON.</head>
                <p>
@@ -1375,7 +1375,7 @@ has ting'd the simplicity and spotless innocence of our once happy asylum.</p>
                <sp>
                   <speaker>Whig.</speaker>
                   <p>Then, I fear, it will be too late; all that time we lose, and they gain ground; I have no notion of trust<g ref="char:EOLhyphen"/>ing to the success of petitions, waiting twelve months for no answer at all. Our assemblies have petitioned often, and as often in vain; 'twould be a miracle in these days to
-<pb n="26" facs="tcp:014823_0033_0F973A364966E7F8"/>
+<pb n="26" facs="unknown:014823_0033_0F973A364966E7F8"/>
 hear of an American petition being granted; their omni<g ref="char:EOLhyphen"/>potencies, their demi-godships (as they think themselves) no doubt think it too great a favour done us to throw our pe<g ref="char:EOLhyphen"/>titions under their table, much less vouchsafe to read them.</p>
                </sp>
                <sp>
@@ -1443,7 +1443,7 @@ hear of an American petition being granted; their omni<g ref="char:EOLhyphen"/>p
                   <p>Aye, you, Sir;—and let me tell you, Sir, you've been long suspected—</p>
                </sp>
                <sp>
-                  <pb n="27" facs="tcp:014823_0034_0F973A3726D97EE0"/>
+                  <pb n="27" facs="unknown:014823_0034_0F973A3726D97EE0"/>
                   <speaker>Tory.</speaker>
                   <p>Of what, Sir?</p>
                </sp>
@@ -1527,7 +1527,7 @@ hear of an American petition being granted; their omni<g ref="char:EOLhyphen"/>p
                   <speaker>Lord <hi>Boston.</hi>
                   </speaker>
                   <p>If Colonel Smith succeeds in his embassy, and I think there's no doubt of it, I shall have the pleasure this ev'ning, I expect, of having my friends Hancock and Adam's good company; I'll make each of them a present of a pair of handsome iron ruffles, and Major Provost shall
-<pb n="28" facs="tcp:014823_0035_0F973A3730BB3458"/>
+<pb n="28" facs="unknown:014823_0035_0F973A3730BB3458"/>
 provide a suitable entertainment for them in his apart<g ref="char:EOLhyphen"/>ment.</p>
                </sp>
                <sp>
@@ -1612,7 +1612,7 @@ provide a suitable entertainment for them in his apart<g ref="char:EOLhyphen"/>m
                   <p>Aye do, Captain; you know how, better than I. <stage>(<hi>Exit Officer</hi>)</stage> Did the Rebels dare to fire on the king's troops? Had they the courage? Guards, keep round me.</p>
                </sp>
                <sp>
-                  <pb n="29" facs="tcp:014823_0036_0F973A37EDEBBCC0"/>
+                  <pb n="29" facs="unknown:014823_0036_0F973A37EDEBBCC0"/>
                   <speaker>Messenger.</speaker>
                   <p>They're like lions; they have killed many of our bravest officers and men; and if not checked in<g ref="char:EOLhyphen"/>stantly, will totally surround them, and make the whole prisoners. This is no time to parley, Sir.</p>
                </sp>
@@ -1668,7 +1668,7 @@ provide a suitable entertainment for them in his apart<g ref="char:EOLhyphen"/>m
                <sp>
                   <speaker>Officer.</speaker>
                   <p>The two brigades have join'd—Now Admiral
-<pb n="30" facs="tcp:014823_0037_0F973A38DD5E91E8"/>
+<pb n="30" facs="unknown:014823_0037_0F973A38DD5E91E8"/>
 Tombstone bellows his lower tier on the Provincials. How does your Excellency?</p>
                </sp>
                <sp>
@@ -1760,7 +1760,7 @@ Tombstone bellows his lower tier on the Provincials. How does your Excellency?</
                </sp>
             </div>
             <div n="6" type="SCENE">
-               <pb n="31" facs="tcp:014823_0038_0F973A396A8C8460"/>
+               <pb n="31" facs="unknown:014823_0038_0F973A396A8C8460"/>
                <head>SCENE VI.</head>
                <head>Roger and Dick, two shepherds near LEXINGTON, after the defeat and flight of the Regulars.</head>
                <sp>
@@ -1794,7 +1794,7 @@ Tombstone bellows his lower tier on the Provincials. How does your Excellency?</
                <sp>
                   <speaker>Dick.</speaker>
                   <p>Nature, Roger, has furnish'd some brute animals with voices, or, more properly speaking, with organs of sound that nearly resemble the human. I have heard of crocodiles weeping like a child, to decoy the unwary
-<pb n="32" facs="tcp:014823_0039_0F973AE52F014F58"/>
+<pb n="32" facs="unknown:014823_0039_0F973AE52F014F58"/>
 traveller, who is no sooner within their reach, but they seize and devour instantly.</p>
                </sp>
                <sp>
@@ -1820,7 +1820,7 @@ traveller, who is no sooner within their reach, but they seize and devour instan
                   <p>Delightful, indeed; I'll attempt it with what little skill I have in music; we may then defy these wolves to imitate it, and thereby save our flocks: I am well con<g ref="char:EOLhyphen"/>vinced, Roger, these wolves intended it rather as a decoy than by way of ridicule, because they live by cunning and deception; besides, they could never mean to ridicule a piece of music, a tune, of which such brutes cannot be supposed to be judges, and, which is allowed by the best masters of music to be a composition of the most sublime kind, and would have done honour to a Handel or a Cor<g ref="char:EOLhyphen"/>rellius. Well, go on, Roger, I long to hear the whole.</p>
                </sp>
                <sp>
-                  <pb n="33" facs="tcp:014823_0040_0F973AE689A83AA0"/>
+                  <pb n="33" facs="unknown:014823_0040_0F973AE689A83AA0"/>
                   <speaker>Roger.</speaker>
                   <p>When they came to Lexington, where a flock of our innocent sheep and young lambs, as usual, were feeding and sporting on the plain, these dogs of violence and rapine with haughty stride advanc'd, and berated them in a new and unheard of language to us.</p>
                </sp>
@@ -1857,7 +1857,7 @@ traveller, who is no sooner within their reach, but they seize and devour instan
                <sp>
                   <speaker>Roger.</speaker>
                   <p>One Lord Paramount; they call him a free<g ref="char:EOLhyphen"/>booter; a fellow who pretends to be proprietor of all Ame<g ref="char:EOLhyphen"/>rica, and says he has a deed for it, and chief ranger of all the flocks, and pretends to have a patent for it; has been a long time in the practice of killing and stealing sheep in England and Ireland, and had like to have been hang'd
-<pb n="34" facs="tcp:014823_0041_0F973AE6EBA7D3B8"/>
+<pb n="34" facs="unknown:014823_0041_0F973AE6EBA7D3B8"/>
 for it there, but was reprieved by the means of his friend GEORGE—I forgot his other name—not Grenville—not George the Second—but another George—</p>
                </sp>
                <sp>
@@ -1897,7 +1897,7 @@ for it there, but was reprieved by the means of his friend GEORGE—I forgot his
                   <p>Well pleased, Roger, was I with the chace, and glorious sport it was: I oft perceiv'd them tumbling o'er each other heels over head; nor did one dare stay to help his brother—but, with bloody breech, made the best of his way—nor ever stopped 'till they were got safe within their lurking-holes—</p>
                </sp>
                <sp>
-                  <pb n="35" facs="tcp:014823_0042_0F973AE78F1CD1F8"/>
+                  <pb n="35" facs="unknown:014823_0042_0F973AE78F1CD1F8"/>
                   <speaker>Roger.</speaker>
                   <p>From whence they have not the courage to peep out, unless four to one, except (like a skunk) forc'd by famine.</p>
                </sp>
@@ -1966,7 +1966,7 @@ for it there, but was reprieved by the means of his friend GEORGE—I forgot his
                         <hi>His throne was the crotch of the tree;</hi>
                      </l>
                      <l>
-                        <pb n="36" facs="tcp:014823_0043_0F973AE82C43E0F0"/>
+                        <pb n="36" facs="unknown:014823_0043_0F973AE82C43E0F0"/>
                         <hi>With Solomon's look, without statutes or book,</hi>
                      </l>
                      <l>
@@ -2089,7 +2089,7 @@ for it there, but was reprieved by the means of his friend GEORGE—I forgot his
                         <hi>For, so noble a soul had he!</hi>
                      </l>
                      <l>
-                        <pb n="37" facs="tcp:014823_0044_0F973AEBE86DB370"/>
+                        <pb n="37" facs="unknown:014823_0044_0F973AEBE86DB370"/>
                         <hi>He'd stop, tho' he lost it, tradition reports it,</hi>
                      </l>
                      <l>
@@ -2209,7 +2209,7 @@ for it there, but was reprieved by the means of his friend GEORGE—I forgot his
                         <hi>To such a magnanimous saint?</hi>
                      </l>
                      <l>
-                        <pb n="38" facs="tcp:014823_0045_0F973AED3B774C10"/>
+                        <pb n="38" facs="unknown:014823_0045_0F973AED3B774C10"/>
                         <hi>His acts far excel all that history tell,</hi>
                      </l>
                      <l>
@@ -2244,7 +2244,7 @@ for it there, but was reprieved by the means of his friend GEORGE—I forgot his
                <sp>
                   <speaker>Clarissa.</speaker>
                   <p>How lovely is this new-born day!—The sun rises with uncommon radiance after the most gloomy night my wearied eyes ever knew.—The voice of slumber was not heard—the angel of sleep was fled—and the awful whispers of solemnity and silence prevented my eye-lids from closing.—No wonder—the terrors and ideas of yester<g ref="char:EOLhyphen"/>day—such a scene of war—of tumult—hurry and hubbub—of horror and destruction—the direful noise of conflict—the dismal hissing of iron shot in vollies flying—such bellowing of mortars—such thund'ring of cannon—such roaring of musquetry—and such clashing of swords and bayonets—such cries of the wounded—and such streams of blood—such a noise and crush of houses, steeples, and whole streets of desolate Charlestown falling—pillars of fire, and the convulsed vortex of fiery flakes, rolling in flaming wreaths in the air, in dreadful combustion, seemed as tho' the ele<g ref="char:EOLhyphen"/>ments and whole earth were envelop'd in one general, eternal conflagration and total ruin, and intermingled with black smoke, ascending, on the wings of mourning, up to heaven, seemed piteously to implore the almighty interposi<g ref="char:EOLhyphen"/>tion to put a stop to such devastation, lest the whole earth should be unpeopled in the unnatural conflict—Too, too much for female heroism to dwell upon—But what are all those to the terrors that filled my affrighted imagination
-<pb n="39" facs="tcp:014823_0046_0F973AEEB5C28708"/>
+<pb n="39" facs="unknown:014823_0046_0F973AEEB5C28708"/>
 the last night?—Dreams—fancies—evil bodings—shadows, phantoms and ghastly visions continually hovering around my pillow, goading and harrowing my soul with the most terrific appearances, not imaginary, but real—Am I awake—Where are the British murderers?—where's my husband?—my son?—my brother?—Something more than human tells me all is not well: If they are among the slain, 'tis im<g ref="char:EOLhyphen"/>possible.—I—Oh! <hi>(She cries.)</hi>
                   </p>
                </sp>
@@ -2306,7 +2306,7 @@ the last night?—Dreams—fancies—evil bodings—shadows, phantoms and ghastl
                <sp>
                   <speaker>Neighbour.</speaker>
                   <p>I saw Warren and the other two heroes firm
-<pb n="40" facs="tcp:014823_0047_0F973AEEF9244008"/>
+<pb n="40" facs="unknown:014823_0047_0F973AEEF9244008"/>
 as Roxbury stand the shock of the enemy's fiercest attacks, and twice put to flight their boasted phalanx.—</p>
                </sp>
                <sp>
@@ -2377,7 +2377,7 @@ as Roxbury stand the shock of the enemy's fiercest attacks, and twice put to fli
                <sp>
                   <speaker>Clarissa.</speaker>
                   <p>Oh! I've heard enough—too—too much <hi>(Cries)</hi> yet—if thou hast worse to tell—say on—nought worse can
-<pb n="41" facs="tcp:014823_0048_0F973AEFC0F1AF18"/>
+<pb n="41" facs="unknown:014823_0048_0F973AEFC0F1AF18"/>
 be—O ye gods!—cruel—cruel—thrice cruel—cou'd ye not leave me one—<hi>(She faints, and is caught by her friend, and placed in a chair, he rings the bell, the family come in, and endeavour to bring her too)</hi>
                   </p>
                </sp>
@@ -2397,7 +2397,7 @@ be—O ye gods!—cruel—cruel—thrice cruel—cou'd ye not leave me one—<hi
                <sp>
                   <speaker>Clarissa.</speaker>
                   <p>O ye angels! ye cherubims and seraphims! waft their souls to bliss, bathe their wounds with angelic balsam, and crown them with immortality. A faithful, loving and beloved husband, a promising and filial son, a tender and affectionate brother: Alas! what a loss!—Whom have I now to comfort me?—What have I left, but the voice of lamentation: <hi>(She weeps)</hi> III-fated bul<g ref="char:EOLhyphen"/>lets—these tears shall sustain me—yes, ye dear friends! how gladly wou'd I follow you—but alas! I must still en<g ref="char:EOLhyphen"/>dure tribulation and inquietudes, from which you are now exempt; I cannot cease to weep, ye brave men, I will
-<pb n="42" facs="tcp:014823_0049_0F973AF11DD1DD88"/>
+<pb n="42" facs="unknown:014823_0049_0F973AF11DD1DD88"/>
 mourn your fall—weep on—flow, mine eyes, and wash away their blood, 'till the fountain of sorrow is dried up—but, oh! it never—never will—my sympathetic soul shall dwell on your bosoms, and floods of tears shall water your graves; and since all other comfort is deny'd me, deprive me not of the only consolation left me of meditating on your virtues and dear memories, who fell in defence of liberty and your country—ye brave men—ye more than friends—ye martyrs to liberty!—This, this is all I ask, 'till sorrow overwhelms me—I breathe my last; and ye yourselves, your own bright spirits, come and waft me to your peaceful abode, where the voice of lamentation is not heard, neither shall we know any more what it is to separate.</p>
                   <l>
                      <hi>Eager the patriot meets his desperate foe</hi>
@@ -2462,7 +2462,7 @@ mourn your fall—weep on—flow, mine eyes, and wash away their blood, 'till th
                <stage>[Exit Boatswain.</stage>
             </div>
             <div n="2" type="SCENE">
-               <pb n="43" facs="tcp:014823_0050_0F973AF171A32740"/>
+               <pb n="43" facs="unknown:014823_0050_0F973AF171A32740"/>
                <head>SCENE II.</head>
                <head>Near the state-room.</head>
                <sp>
@@ -2540,7 +2540,7 @@ mourn your fall—weep on—flow, mine eyes, and wash away their blood, 'till th
                <sp>
                   <speaker>Boatswain.</speaker>
                   <p>Why, aye, that's true, please your honour, any port in a storm—if a man is to be hang'd, or have his
-<pb n="44" facs="tcp:014823_0051_0F973AF2052E7638"/>
+<pb n="44" facs="unknown:014823_0051_0F973AF2052E7638"/>
 throat cut, d'ye see—who are so fit to do it as his own slaves? especially as they're to have their freedoms for it; nobody can blame 'em, nor your honour neither, for you get them for half price, or nothing at all, d'ye see me, and that will help to lessen poor Owld England's taxes, and when you have done with 'em here, and they get their brains knock'd out, d'ye see, your honour can sell them in the West Indies, and that will be something in your honour's pocket, d'ye see—well, ev'ry man to his trade—but, damn my impudence for all, I see your honour knows all about it—d'ye see.</p>
                </sp>
                <stage>[Exit Boatswain.</stage>
@@ -2571,7 +2571,7 @@ throat cut, d'ye see—who are so fit to do it as his own slaves? especially as 
                <sp>
                   <speaker>Boatswain.</speaker>
                   <p>Come, come, brothers, don't be angry, I sup<g ref="char:EOLhyphen"/>pose we shall soon be in a warmer latitude—the Kidnapper seems as fond of these black regulars (as you call 'em Jack) as he is of the brace of whores below; but as they come in so damn'd slow, I'll put him in the humour of sending part of the fleet this winter to the coast of Guinea, and beat up for volun<g ref="char:EOLhyphen"/>teers, there he'll get recruits enough for a hogshead or two
-<pb n="45" facs="tcp:014823_0052_0F973AF2C79479B8"/>
+<pb n="45" facs="unknown:014823_0052_0F973AF2C79479B8"/>
 of New-England rum, and a few old pipe-shanks, and save poor Owld-England the trouble and expence of cloathing them in the bargain.</p>
                </sp>
                <sp>
@@ -2613,7 +2613,7 @@ of New-England rum, and a few old pipe-shanks, and save poor Owld-England the tr
                <sp>
                   <speaker>Boatswain.</speaker>
                   <p>What's that you say? Take care, old frosty face—What? do you accuse his worship of turning kid<g ref="char:EOLhyphen"/>napper,
-<pb n="46" facs="tcp:014823_0053_0F973AF3715C4AA0"/>
+<pb n="46" facs="unknown:014823_0053_0F973AF3715C4AA0"/>
 and harbouring run away Negroes?—Softly, or you'll be taken up for a Whig, and get a handsome coat of slush and hogs feathers for a christmass-box, cockey: Throw up your commission, eigh? throw up the pot-halliards, you mean, old piss-to-windward? Ha, ha, ha.</p>
                </sp>
                <sp>
@@ -2701,7 +2701,7 @@ and harbouring run away Negroes?—Softly, or you'll be taken up for a Whig, and
                   <p>Cudjo?—very good—was you ever christened, Cudjo?</p>
                </sp>
                <sp>
-                  <pb n="47" facs="tcp:014823_0054_0F973AF4CA6F3BF0"/>
+                  <pb n="47" facs="unknown:014823_0054_0F973AF4CA6F3BF0"/>
                   <speaker>Cudjo.</speaker>
                   <p>No, massa, me no crissen.</p>
                </sp>
@@ -2773,7 +2773,7 @@ and harbouring run away Negroes?—Softly, or you'll be taken up for a Whig, and
                <sp>
                   <speaker>Kidnapper.</speaker>
                   <p>Serjeant, to-morrow begin to teach those black recruits the exercise, and when they have learn'd sufficiently well to load and fire, then incorporate them among the re<g ref="char:EOLhyphen"/>gulars and the other Whites on board; we shall in a few days have some work for 'em, I expect—be as expeditious
-<pb n="48" facs="tcp:014823_0055_0F973AF500FD1510"/>
+<pb n="48" facs="unknown:014823_0055_0F973AF500FD1510"/>
 as possible. <hi>(Aside to him)</hi> Set a guard over them every night, and take their arms from them, for who knows but they may cut our throats.</p>
                </sp>
                <sp>
@@ -2830,7 +2830,7 @@ as possible. <hi>(Aside to him)</hi> Set a guard over them every night, and take
                   <p>Aye, so I've heard, but I look upon this to be a grand manoeuvre in politics; this is making dog eat dog—thief catch thief—the servant against his master—rebel against rebel—what think you of that, parson?</p>
                </sp>
                <sp>
-                  <pb n="49" facs="tcp:014823_0056_0F973AF5AEBD83E0"/>
+                  <pb n="49" facs="unknown:014823_0056_0F973AF5AEBD83E0"/>
                   <speaker>Chaplain.</speaker>
                   <p>A house divided thus against itself cannot stand, according to scripture—My Lord, your observation is truly scriptural.</p>
                </sp>
@@ -2887,7 +2887,7 @@ as possible. <hi>(Aside to him)</hi> Set a guard over them every night, and take
                <sp>
                   <speaker>Kidnapper.</speaker>
                   <p>Very true, parson—very true—now I like
-<pb n="50" facs="tcp:014823_0057_0F973AF66CA029F0"/>
+<pb n="50" facs="unknown:014823_0057_0F973AF66CA029F0"/>
 your doctrine—a full belly is better than an empty sermon; preach that doctrine;—stick to that text, and you'll not fail of making converts.</p>
                </sp>
                <sp>
@@ -2949,7 +2949,7 @@ your doctrine—a full belly is better than an empty sermon; preach that doctrin
                <stage>[Exit Tom.</stage>
             </div>
             <div n="7" type="SCENE">
-               <pb n="51" facs="tcp:014823_0058_0F973AF774521AA0"/>
+               <pb n="51" facs="unknown:014823_0058_0F973AF774521AA0"/>
                <head>SCENE VII.</head>
                <head>In BOSTON. A council of war after the battle of BUNKER'S HILL.</head>
                <stage>
@@ -2982,7 +2982,7 @@ your doctrine—a full belly is better than an empty sermon; preach that doctrin
                      <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>ons)
-<pb n="52" facs="tcp:014823_0059_0F973AF8D75EE518"/>
+<pb n="52" facs="unknown:014823_0059_0F973AF8D75EE518"/>
 of a little joking, yet I can by no means think (as we have had such bad success with our crackers) that this is a proper time to throw your squibs.</p>
                </sp>
                <sp>
@@ -3025,7 +3025,7 @@ of a little joking, yet I can by no means think (as we have had such bad success
                <sp>
                   <speaker>Clinton.</speaker>
                   <p>Pray, Gentlemen, drop this discourse, consider
-<pb n="53" facs="tcp:014823_0060_0F973AF96C783378"/>
+<pb n="53" facs="unknown:014823_0060_0F973AF96C783378"/>
 the honour of England is at stake, and our own safety de<g ref="char:EOLhyphen"/>pends upon this day's consultation.</p>
                </sp>
                <sp>
@@ -3085,7 +3085,7 @@ the honour of England is at stake, and our own safety de<g ref="char:EOLhyphen"/
                   <p>It can't be help'd, Admiral; what is to be done next?</p>
                </sp>
                <sp>
-                  <pb n="54" facs="tcp:014823_0061_0F973AFD71625968"/>
+                  <pb n="54" facs="unknown:014823_0061_0F973AFD71625968"/>
                   <speaker>Admiral <hi>Tombstone.</hi>
                   </speaker>
                   <p>Done?—why, what the devil have you done?—nothing yet, but eat Paramount's beef, and steal a few Yankee sheep—and that, it seems, is now become a damn'd lousy, beggarly trade too, for you hav'n't left your<g ref="char:EOLhyphen"/>selves a mouthful to eat.</p>
@@ -3140,7 +3140,7 @@ the honour of England is at stake, and our own safety de<g ref="char:EOLhyphen"/
                      </gap>ts.</p>
                </sp>
                <sp>
-                  <pb n="55" facs="tcp:014823_0062_0F973AFE8A93BF98"/>
+                  <pb n="55" facs="unknown:014823_0062_0F973AFE8A93BF98"/>
                   <speaker>Lord <hi>Boston.</hi>
                   </speaker>
                   <p>I think, Admiral, you're always grum<g ref="char:EOLhyphen"/>bling—never satisfied.</p>
@@ -3199,7 +3199,7 @@ the honour of England is at stake, and our own safety de<g ref="char:EOLhyphen"/
                   <speaker>Gen. <hi>Prescot.</hi>
                   </speaker>
                   <p>They'll find us prepar'd, I'll warrant 'em,
-<pb n="56" facs="tcp:014823_0063_0F973AFEAE828A38"/>
+<pb n="56" facs="unknown:014823_0063_0F973AFEAE828A38"/>
 to give 'em such a reception as they little dream of—a par<g ref="char:EOLhyphen"/>cel of Yankee dogs.</p>
                </sp>
                <sp>
@@ -3282,7 +3282,7 @@ to give 'em such a reception as they little dream of—a par<g ref="char:EOLhyph
                   <speaker>Gen. <hi>Prescot.</hi>
                   </speaker>
                   <p>To answer you, were a poorness of spirit I despise; when Rebels dare accuse, power that replies, forgets to punish; I am not to argue that point with you: And let me tell you, Sir, whoever you are, it now ill be<g ref="char:EOLhyphen"/>comes you thus to talk—You're my prisoner—your life is
-<pb n="57" facs="tcp:014823_0064_0F973AFF6C6C5850"/>
+<pb n="57" facs="unknown:014823_0064_0F973AFF6C6C5850"/>
 in my hands, and you shall suffer immediately—Guards! take them away.</p>
                </sp>
                <sp>
@@ -3331,7 +3331,7 @@ in my hands, and you shall suffer immediately—Guards! take them away.</p>
                   <p>Ye dear, ye brave, wretched friends!—now wou'd I die for ye all—ye share a death I wou'd gladly ex<g ref="char:EOLhyphen"/>cuse you from—'Tis not death I fear—this is only bodily death—but to die noteless in the silent dark, is to die scorn'd, and shame our suff'ring country—we fall undig<g ref="char:EOLhyphen"/>nify'd by villains hands—a sacrifice to Britain's outcast blood-hounds—This, this shakes the soul!—Come then, ye murderers, since it must be so—do your business speedily—Farewell, my friends! to die with you is now my noblest claim, since to die for you was a choice deny'd—What are ye about?—Stand off, ye wretches!</p>
                </sp>
                <sp>
-                  <pb n="58" facs="tcp:014823_0065_0F973B04E9385670"/>
+                  <pb n="58" facs="unknown:014823_0065_0F973B04E9385670"/>
                   <speaker>Officer.</speaker>
                   <p>I am order'd to lay you in irons <hi>(they seize him)</hi> you must submit.</p>
                </sp>
@@ -3390,7 +3390,7 @@ in my hands, and you shall suffer immediately—Guards! take them away.</p>
                      </gap>mil'd at doubts, and resolutely march'd on, clamb'ring (to all but themselves) in<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>urmount<g ref="char:EOLhyphen"/>able precipices, whose tops, covered with ice and snow, lay hid in the clouds, and dragging baggage, provisions, am<g ref="char:EOLhyphen"/>munition and artillery along with them, by main strength,
-<pb n="59" facs="tcp:014823_0066_0F973B0649162048"/>
+<pb n="59" facs="unknown:014823_0066_0F973B0649162048"/>
 in the dead of winter, over such stupendous and amazing heights, seems almost incredible, unparallelled in history!—'Tis true, Hannibal's march over the Alps comes the nearest to it—it was a surprising undertaking, but when compar'd to this, appears but as a party of pleasure, an agreeable walk, a sabbath day's journey.</p>
                </sp>
                <sp>
@@ -3434,7 +3434,7 @@ in the dead of winter, over such stupendous and amazing heights, seems almost in
                   <p>I have letters to your Excellency.</p>
                </sp>
                <sp>
-                  <pb n="60" facs="tcp:014823_0067_0F973B07A6745088"/>
+                  <pb n="60" facs="unknown:014823_0067_0F973B07A6745088"/>
                   <speaker>Gen. <hi>Washington.</hi>
                   </speaker>
                   <p>From whence?</p>
@@ -3504,7 +3504,7 @@ in the dead of winter, over such stupendous and amazing heights, seems almost in
                   <p>I think we have seen enough of it already for this twelve-months past. Methinks the behaviour of Lord Boston, the ill treatment of poor Allen, to be thrown into a loathsome dungeon like a murder<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>r, be loaded with
-<pb n="61" facs="tcp:014823_0068_0F973B07B20348A0"/>
+<pb n="61" facs="unknown:014823_0068_0F973B07B20348A0"/>
 and transported like a convict, would sufficiently rouse us to a just retaliation—that imperious red coat, Carleton, should be taught good manners—I hope to see him ere long in our College at Cambridge—</p>
                </sp>
                <sp>
@@ -3587,7 +3587,7 @@ and transported like a convict, would sufficiently rouse us to a just retaliatio
                   <speaker>Gen. <hi>Putnam.</hi>
                   </speaker>
                   <p>Pity such bravery should prove unsuccess<g ref="char:EOLhyphen"/>ful,
-<pb n="62" facs="tcp:014823_0069_0F973B089F9017E8"/>
+<pb n="62" facs="unknown:014823_0069_0F973B089F9017E8"/>
 such merit unrewarded;—but the irreversible decree of Providence!—who can gainsay?—we may lament the loss of a friend, but 'tis irreligious to murmur at pre-ordination. What happ'ned afterwards?</p>
                </sp>
                <sp>
@@ -3667,7 +3667,7 @@ such merit unrewarded;—but the irreversible decree of Providence!—who can ga
                   <p>He dares not treat them ill—only as prisoners. Did you learn how those brave fellows were treated?</p>
                </sp>
                <sp>
-                  <pb n="63" facs="tcp:014823_0070_0F973B094415BB08"/>
+                  <pb n="63" facs="unknown:014823_0070_0F973B094415BB08"/>
                   <speaker>Messenger.</speaker>
                   <p>It was currently reported in the camp they were treated very humanely.</p>
                </sp>
@@ -3770,7 +3770,7 @@ such merit unrewarded;—but the irreversible decree of Providence!—who can ga
                   <p>I'll despatch an express to the Con<g ref="char:EOLhyphen"/>gress. This repulse, if I mistake not, (or victory, as Ca<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>le<g ref="char:EOLhyphen"/>ton may call it) will stand 'em but in little stead—'t will be
-<pb n="64" facs="tcp:014823_0071_0F973B0A09F0D878"/>
+<pb n="64" facs="unknown:014823_0071_0F973B0A09F0D878"/>
 only a temporary reprieve—we'll reinforce our friends, let the consequence be what it may—Qu<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>be<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -3810,7 +3810,7 @@ only a temporary reprieve—we'll reinforce our friends, let the consequence be 
                   <speaker>Gen. <hi>Washington.</hi>
                   </speaker>
                   <p>Yet, finding they cannot conquer us, gladly would they make it up by a voluntary free will of<g ref="char:EOLhyphen"/>fering of a million of money in bribes, rather than be obliged to relish the thoughts of sacrificing their cursed
-<pb n="65" facs="tcp:014823_0072_0F973B0B6C997718"/>
+<pb n="65" facs="unknown:014823_0072_0F973B0B6C997718"/>
                      <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> and false honour, they sending over to amuse us (to put us off our guard) a score or two of commissioners with <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -3936,7 +3936,7 @@ only a temporary reprieve—we'll reinforce our friends, let the consequence be 
                   </gap> to their glory, but eternal shame.</hi>
             </l>
             <l>
-               <pb n="66" facs="tcp:014823_0073_0F973B0C57DB6C00"/>
+               <pb n="66" facs="unknown:014823_0073_0F973B0C57DB6C00"/>
                <hi>Petitions—waste paper—great Pharaoh cries,</hi>
             </l>
             <l>
